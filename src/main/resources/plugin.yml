@@ -1,0 +1,6 @@
+name: BomberMod
+version: '${project.version}'
+main: org.renangabrieel.bombermod.BomberMod
+commands:
+  givebomberspawnegg:
+    description: Give a bomber spawn egg

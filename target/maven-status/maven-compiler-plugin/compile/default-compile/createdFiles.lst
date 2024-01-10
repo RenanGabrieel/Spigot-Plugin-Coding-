@@ -1,0 +1,3 @@
+org\james\bombermod\listener\InteractListener.class
+org\james\bombermod\BomberMod.class
+org\james\bombermod\command\BomberSpawnEggCommand.class

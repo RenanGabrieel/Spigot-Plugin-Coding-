@@ -1,0 +1,6 @@
+name: BomberMod
+version: '1.0-SNAPSHOT'
+main: org.james.bombermod.BomberMod
+commands:
+  givebomberspawnegg:
+    description: Give a bomber spawn egg
